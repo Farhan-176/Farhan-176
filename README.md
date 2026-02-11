@@ -33,10 +33,10 @@ I'm a passionate Full Stack Developer who loves building scalable web applicatio
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB? style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC? style=flat-square&logo=redux&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer who loves building scalable web applicatio
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=Farhan-176&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farhan-176&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-176&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
@@ -68,18 +68,37 @@ I'm a passionate Full Stack Developer who loves building scalable web applicatio
 
 ## 🌟 Featured Projects
 
-Explore my repositories to see what I've been working on!  Here are some highlights:
+Explore my repositories to see what I've been working on! Here are some highlights:
 
 ### 🔥 Web Applications
-Full-stack web applications built with modern technologies, focusing on performance, scalability, and user experience. 
+Full-stack web applications built with modern technologies like React, Next.js, Node.js, and MongoDB, focusing on performance, scalability, and user experience. 
 
 ### 🛠️ Developer Tools
-Useful tools and utilities that make developers' lives easier. 
+Useful tools and utilities that make developers' lives easier - from productivity enhancers to automation scripts.
 
 ### 📚 Learning Projects
-Projects built while learning and experimenting with new technologies and frameworks.
+Projects built while learning and experimenting with new technologies and frameworks to stay current with industry trends.
 
-> Check out all my repositories below to see more projects! 
+> Check out all my repositories on my [GitHub profile](https://github.com/Farhan-176) to see more projects!
+
+---
+
+## ⚡ Key Skills & Expertise
+
+**Architecture & Design Patterns**
+- RESTful API design and GraphQL
+- Microservices architecture
+- SOLID principles and clean code practices
+
+**Performance Optimization**
+- Frontend performance optimization (lazy loading, code splitting)
+- Database query optimization
+- SEO best practices for web applications
+
+**Agile & Collaboration**
+- Version control with Git
+- Collaborative development workflows
+- Documentation and code comments best practices 
 
 ---
 
@@ -88,8 +107,8 @@ Projects built while learning and experimenting with new technologies and framew
 I'm always interested in collaborating on exciting projects or discussing new ideas! 
 
 - 📧 Email: [afridifarhan92@gmail.com](mailto:afridifarhan92@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/farhanafrididev]((https://www.linkedin.com/in/farhanafrididev/))
-- 🌐 Portfolio: (https://my-portfolio-xi-lilac-49.vercel.app/)
+- 💼 LinkedIn: [www.linkedin.com/in/farhanafrididev](https://www.linkedin.com/in/farhanafrididev/)
+- 🌐 Portfolio: [my-portfolio-xi-lilac-49.vercel.app](https://my-portfolio-xi-lilac-49.vercel.app/)
 
 ---
 
@@ -102,18 +121,30 @@ I'm always interested in collaborating on exciting projects or discussing new id
 
 ---
 
+## 🌱 Always Learning
+
+I'm committed to continuous learning and staying updated with the latest trends and best practices in web development. My focus areas include:
+- Improving code quality and architecture
+- Exploring new frameworks and technologies
+- Contributing to open-source communities
+- Building scalable and maintainable applications
+
+---
+
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel. app/graph?username=Farhan-176&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Farhan-176&theme=react-dark&hide_border=true&area=true)
 
 ---
 
 <div align="center">
 
-### ⭐️ From [Farhan-176](https://github.com/Farhan-176)
+### ⭐ Thanks for visiting!
 
-**Thanks for visiting!  Feel free to explore my repositories and don't forget to star ⭐ the ones you like! **
+Feel free to explore my repositories and don't forget to star ⭐ the ones you like!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Farhan-176&color=brightgreen&style=flat-square)
+
+**Let's build something amazing together! 🚀**
 
 </div>
