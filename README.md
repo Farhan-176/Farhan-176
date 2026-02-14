@@ -1,30 +1,20 @@
 <div align="center">
 
-```
-███████╗░█████╗░██████╗░██╗░░██╗░█████╗░███╗░░██╗
-██╔════╝██╔══██╗██╔══██╗██║░░██║██╔══██╗████╗░██║
-█████╗░░███████║██████╔╝███████║███████║██╔██╗██║
-██╔══╝░░██╔══██║██╔══██╗██╔══██║██╔══██║██║╚████║
-██║░░░░░██║░░██║██║░░██║██║░░██║██║░░██║██║░╚███║
-╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+# 🚀 Farhan Afridi
+### ✨ Full Stack Developer | UI/UX Enthusiast | Code Artisan
 
-🚀 Full Stack Developer | 🎨 UI/UX Enthusiast | 💡 Problem Solver
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Amazing+Web+Experiences;Open+Source+Advocate;Creative+Problem+Solver;Exhibition-Grade+UI/UX+Designs)](https://git.io/typing-svg)
 
-### ⭐ Building Amazing Web Experiences | Open Source Advocate | Code Artisan
+---
 
-<table>
-  <tr>
-    <td><b>Followers</b></td>
-    <td><b>Repositories</b></td>
-    <td><b>Stars</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/github/followers/Farhan-176?style=social" alt="followers" /></td>
-    <td><img src="https://img.shields.io/badge/Public_Repos-18+-blue?style=flat-square" alt="repos" /></td>
-    <td><img src="https://img.shields.io/github/stars/Farhan-176?style=social" alt="stars" /></td>
-  </tr>
-</table>
+![Banner](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Digital%20Garden&fontSize=40&animation=fadeIn&fontAlignY=35&theme=gradient)
+
+---
+
+### 📊 Quick Glimpse
+| **Followers** | **Repositories** | **Stars** |
+|:---:|:---:|:---:|
+| [![Followers](https://img.shields.io/github/followers/Farhan-176?style=flat-square&logo=github&color=58A6FF)](https://github.com/Farhan-176) | [![Repos](https://img.shields.io/badge/Public_Repos-18+-blue?style=flat-square&logo=git&color=1F6FEB)](https://github.com/Farhan-176?tab=repositories) | [![Stars](https://img.shields.io/github/stars/Farhan-176?style=flat-square&logo=github&color=58A6FF)](https://github.com/Farhan-176) |
 
 </div>
 
@@ -48,69 +38,61 @@ I'm not just another developer. I'm a **creative problem solver** who transforms
 
 ---
 
-## 🛠️ My Tech Arsenal
+## ⚒️ Tech Stack
 
 <div align="center">
 
-| **Languages** | **Frontend Magic** | **Backend Power** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | | |
+### 🌐 Frontend Mastery
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🎨 Specialty Skills
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>⚡ Performance First</h3>
-      <ul>
-        <li>Lazy loading & Code splitting</li>
-        <li>Database optimization</li>
-        <li>Memory efficient algorithms</li>
-        <li>CDN mastery</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>🏗️ Architecture Master</h3>
-      <ul>
-        <li>Scalable systems design</li>
-        <li>Microservices patterns</li>
-        <li>RESTful & GraphQL APIs</li>
-        <li>SOLID principles expert</li>
-      </ul>
-    </td>
-    <td width="33%">
-      <h3>🎯 User-Centric Development</h3>
-      <ul>
-        <li>Responsive design 📱</li>
-        <li>Accessibility (a11y)</li>
-        <li>Intuitive UX flows</li>
-        <li>Cross-browser compatibility</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats & Activity
+## 🎨 Core Competencies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farhan-176&show_icons=true&theme=gradient&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="GitHub Stats" width="100%" />
+| ⚡ Performance | 🏗️ Architecture | 🎯 UX Flow | 🔒 Security |
+|:---:|:---:|:---:|:---:|
+| Core Web Vitals | System Design | Responsive UI | JWT & Auth |
+| Lazy Loading | Microservices | Accessibility | OWASP Top 10 |
+| Caching | Clean Code | Framer Motion | Data Encryption |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-176&layout=compact&theme=gradient&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide_border=false" alt="Top Languages" width="100%" />
+</div>
+
+---
+
+## 📊 Dynamic Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Farhan-176&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-176&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-176&theme=dark&hide_border=false&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF8C42&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farhan-176&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF8C42&currStreakNum=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" width="97%" />
 
 </div>
 
@@ -201,61 +183,33 @@ I'm not just another developer. I'm a **creative problem solver** who transforms
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 🚀 Ready for Something Amazing?
-
-I'm always excited about:
-- 💼 **Freelance Projects** - Let's build something incredible together
-- 🏢 **Full-time Opportunities** - Growing teams that love code
-- 🤝 **Open Source** - Contributing to the developer community
-- 🧑‍🏫 **Mentorship** - Sharing knowledge & growing together
-- 💬 **Collaboration** - Bouncing ideas and creating magic
-
-</div>
-
-<div align="center">
-
-### 📱 Get In Touch
-
-|  |  |  |
-|:---:|:---:|:---:|
-| 📧 **Email** | 💼 **LinkedIn** | 🌐 **Portfolio** |
-| [afridifarhan92@gmail.com](mailto:afridifarhan92@gmail.com) | [farhanafrididev](https://www.linkedin.com/in/farhanafrididev/) | [my-portfolio](https://my-portfolio-xi-lilac-49.vercel.app/) |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhanafrididev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-xi-lilac-49.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afridifarhan92@gmail.com)
 
 <br/>
 
-**Let's build the future of web together!** 🚀
-
-</div>
-
----
-
-## 📈 Activity & Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan-176&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+> [!TIP]
+> **Open for Collaboration!** Whether it's a freelance project, full-time role, or just a technical discussion, I'm always excited to connect and build something amazing together.
 
 ---
 
-## 🎬 Let's Get Started!
+### ⭐ Show Some Love
+If you find my projects helpful or interesting, consider giving them a **Star** and **Follow** me for more digital creations!
 
-<div align="center">
-
-> ### "Code is poetry written in a language machines understand"
-
-### ⭐ Show Some Love!
-
-If you find anything interesting, don't forget to **star** ⭐ my repositories  
-and **follow** me for more amazing projects!
+[![GitHub followers](https://img.shields.io/github/followers/Farhan-176?label=Follow&style=social)](https://github.com/Farhan-176)
+![Profile Views](https://komarev.com/ghpvc/?username=Farhan-176&color=58A6FF&style=flat-square&label=Profile+Views)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Farhan-176&color=brightgreen&style=flat-square&label=Profile+Views)
-
-**Thanks for stopping by! Happy coding! 💻✨**
+**"Code is poetry written in a language machines understand."**
 
 ---
 
-*Last Updated: February 2026 | Always Growing 🌱*
+*Last Updated: February 2026 | Always Learning 🌱*
+
+</div>
